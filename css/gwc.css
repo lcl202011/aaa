@@ -1,0 +1,157 @@
+.content{
+	width: 100%;
+    height: 708px;
+    background-color: #181A1C;
+}
+
+.banner_div{
+	height: 60px;
+	width: 100%;
+	background-color: #fece1a;
+}
+.baner_div1{
+	background: url(../images/banner5.png) no-repeat;
+    height: 60px;
+    width: 980px;
+    margin: 0 auto;
+    background-position: center;
+}
+
+.con{
+    width: 1170px;
+    height: 620px;
+    background-color: #fece1a;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+}
+
+.product{
+    width: 900px;
+    height: 150px;
+    background-color: #181A1C;
+    margin: 0 auto;
+    position: relative;
+    top: 20px;
+}
+
+.cc{
+    margin-top: 20px;
+}
+
+.div_ck{
+    width: 15px;
+    height: 15px;
+    position: 
+    relative;top: 67.5px;
+    left: 67.5px;
+    float: left;
+}
+
+.div_img{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    float: left;
+    left: 120px;
+}
+.div_img img{
+    position: relative;
+    top: 5px;
+}
+
+.div_title{
+    height: 150px;
+    width: 300px;
+    position: relative;
+    float: left;
+    left: 120px;
+}
+
+.div_title h2{
+    font-size: 25px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.div_title h4{
+    font-size: 14px;
+    margin-top: 9px;
+    margin-left: 20px;
+}
+
+.div_count{
+    height: 150px;
+    width: 130px;
+    position: relative;
+    float: left;
+    left: 120px;
+}
+
+.div_type{
+    height: 150px;
+    width: 80px;
+    position: relative;
+    float: left;
+    left: 120px;
+}
+
+.div_price{
+    height: 150px;
+    width: 100px;
+    position: relative;
+    float: left;
+    left: 120px;
+    color: red;
+    line-height: 150px;
+    text-align: center;
+}
+
+.div_count input{
+    width: 60px;
+    text-align: center;
+    border-radius: 3px;
+    height: 30px;
+    outline: none;
+    border: 0px;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+select{
+    width: 60px;
+    text-align: center;
+    border-radius: 3px;
+    height: 30px;
+    outline: none;
+    border: 0px;
+    margin-top: 60px; 
+}
+
+.div_pro{
+    height: 544px;
+    width: 1000px;
+    margin: 0 auto;
+    border-bottom: 2px solid #181A1C;
+}
+
+.div_btn{
+    height: 74px;
+    width:900px;
+    margin: 0 auto;
+}
+
+.div_btn input{
+    background-color: #181A1C;
+    width: 95px;
+    height: 30px;
+    font-size: 14px;
+    color: #FFF;
+    outline: none;
+    border: 0px;
+    border-radius: 5px;
+    position: relative;
+    top: 20px;
+    right: 30px;
+}
+    

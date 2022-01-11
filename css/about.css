@@ -1,0 +1,177 @@
+.content{
+	width: 100%;
+    height: 1350px;
+    background-color: #181A1C;
+}
+
+.banner_div{
+	height: 60px;
+	width: 100%;
+	background-color: #fece1a;
+}
+.baner_div1{
+	background: url(../images/banner3.png) no-repeat;
+    height: 60px;
+    width: 980px;
+    margin: 0 auto;
+    background-position: center;
+}
+
+.team{
+	width: 1170px;
+	height: 350px;
+	margin:0 auto;
+	position: relative;
+	top:50px;
+}
+
+.team_img{
+	height: 300px;
+	width: 500px;
+	background: url(../images/chy.png) no-repeat;
+	background-position: center;
+	overflow: hidden;
+	float: left;
+	background-size: 500px;
+	position: relative;
+	z-index: 99;
+    left: 50px;
+    border: 2px solid #fece1a;
+}
+
+.team_con{
+	height: 300px;
+    width: 1170px;
+    background-color: #fece1a;
+    position: relative;
+    top: 50px;
+}
+
+.team_con1{
+	height: 80px;
+    width: 500px;
+    position: relative;
+    float: right;
+    line-height: 80px;
+    right: 80px;
+    color: #181A1C;
+}
+
+.team_con2{
+	height: 80px;
+    width: 500px;
+    position: relative;
+    float: right;
+    line-height: 30px;
+    right: 80px;
+    color: #181A1C;
+}
+
+.team_con2 h7{
+	font-size: 17px;
+}
+
+.team_con1 span{
+	color:#c00;
+}
+
+.member{
+    width: 1170px;
+    height: 930px;
+    margin: 0 auto;
+    position: relative;
+    top: 70px;
+    text-align: center;
+}
+
+.member_top{
+	height: 189px;
+	width: 1170px;
+	border-bottom: 1px solid #FFF;
+}
+
+.member_top h1{
+    font-weight: normal;
+    font-size: 38.5px;
+    color: #FFF;	
+}
+
+.member_top h3{
+    font-weight: normal;
+    font-size: 20px;	
+    color: #FECE1A;
+}
+
+.member_top1{
+	height: 40px;
+    position: relative;
+    top: 80px;
+}
+
+.member_top2{
+	height: 20;
+    position: relative;
+    top: 90px;
+}
+
+.member_con1{
+	height: 350px;
+	width: 1170px;
+}
+
+.mc_left{
+	width: 370px;
+	height: 350px;
+	float: left;
+}
+
+.mc_cen{
+	width: 370px;
+	height: 350px;
+	float: left;
+	margin-left: 30px;
+}
+
+.mc_right{
+	width: 370px;
+	height: 350px;
+	float: right;
+}
+
+.mc_circle{
+	width: 160px;
+	height: 160px;
+	background-color: blue;
+	margin: 0 auto;
+    position: relative;
+    top: 50px;
+    border-radius: 80px;
+    border: solid rgb(100,100,100) 1px;
+    overflow: hidden;
+	border:0px;
+}
+
+.mc_font{
+	width:370px;
+	height: 100px;
+	position: relative;
+	top: 50px;
+}
+
+.mc_font h3{
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    top: 15px;
+}
+
+.mc_font h5{
+    color: #fff;
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+}
+
+
+
+

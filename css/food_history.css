@@ -1,0 +1,144 @@
+.content{
+	width: 100%;
+    height: 708px;
+    background-color: #181A1C;
+}
+
+.banner_div{
+	height: 60px;
+	width: 100%;
+	background-color: #fece1a;
+}
+.baner_div1{
+	background: url(../images/banner2.png) no-repeat;
+    height: 60px;
+    width: 980px;
+    margin: 0 auto;
+    background-position: center;
+}
+
+.con{
+    width: 1170px;
+    height: 680px;
+    margin: 0 auto;
+    position: relative;;
+    top: 14px;
+}
+
+.con_left{
+    width:380px;
+    height: 630px;
+    float: left;
+}
+
+.con_cen{
+    width:380px;
+    height: 630px;
+    float: left;
+    margin-left:15px;
+}
+
+.con_right{
+    width:380px;
+    height: 630px;
+    float: right;
+}
+
+.con_left1{
+    width:380px;
+    height: 100px;
+}
+
+.con_left2{
+    background: url(../images/lsf.png) no-repeat;
+    background-position: center;
+    background-size: 380px;
+    width: 380px;
+    height: 253px;
+}
+
+.con_cen2{
+    background: url(../images/timg.jpg) no-repeat;
+    background-position: center;
+    background-size: 380px;
+    width: 380px;
+    height: 253px;
+}
+
+.con_right2{
+    background: url(../images/p19.jpg) no-repeat;
+    background-position: center;
+    background-size: 380px;
+    width: 380px;
+    height: 253px;
+}
+
+.con_left3{
+    background-color: #fece1a;
+    width:380px;
+    height: 280px;
+    border-bottom: 1px dashed #000;
+}
+
+.con_left1 a{
+    width: 200px;
+    height: 50px;
+    background-color: #FECE1A;
+    display: block;
+    color: #181A1C;
+    font-size: 27px;
+    position: relative;
+    top: 25px;
+    line-height: 50px;
+    margin-left: 15px;
+    text-align: center;
+}
+
+.sj{
+    margin-left: 29px;
+    width: 0px;
+    border-top: 10px solid #FECE1A;
+    border-left: 20px outset transparent;
+    border-right: 20px outset transparent;
+    float: left;
+    margin-top: 25px;
+}
+
+.ms_p1{
+    background: transparent;
+    border: 0 none;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: top;
+    color: #000;
+    line-height: 30px;
+}
+
+.ms_p2{
+    font-size: 20px;
+    color: #fff;
+    line-height: 50px;
+    position: relative;
+    left: -8px;
+}
+
+.con_left3_1{
+    height: 50px;
+    width: 350px;
+    position: relative;
+    line-height: 50px;
+    left: 15px;
+    top: 15px;
+    color: #000;
+}
+
+.con_left3_2{
+    width: 350px;
+    height: 243px;
+    position: relative;
+    left: 15px;
+    top: 30px;
+}
